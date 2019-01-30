@@ -1,0 +1,22 @@
+{
+  "name": "url-tester",
+  "version": "0.1.0",
+  "description": "Get the HTTP status code of each URL from a list and write the result in a csv file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arakwar/node-url-tester.git"
+  },
+  "author": "Arakwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arakwar/node-url-tester/issues"
+  },
+  "homepage": "https://github.com/arakwar/node-url-tester#readme",
+  "dependencies": {
+    "concurrent-queue": "^7.0.2"
+  }
+}
